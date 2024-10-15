@@ -10,10 +10,10 @@
 
 ###### Заголовок6
 
-Заголовок 1 
+_Заголовок 1_ 
 =
 
-Заголовок 2 
+__Заголовок 2__ 
 -
 
 ---
@@ -27,6 +27,31 @@
 *******
 ------------
 
-Lorem ipsum dolor.  sit amet consectetur     adipisicing  elit. 
+Lorem __ipsum__ dolor.  sit amet consectetur     adipisicing  elit. 
 
-Distinctio, tempora!
+***Distinctio***, *tempora!*
+
+`
+$a = 5;
+$b = 3;
+$c = 1;
+`
+```
+$a = 5;
+$b = 3;
+$c = 1;
+```
+
+>Цитата
+
+[Яндекс](https://dzen.ru/?yredirect=true)
+
+![Картинка](img/photo.jpg)
+
+[![Картинка](img/axe.jpg)](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D1%80)
+
+Item      | Value | Quantity
+:---------|:-----:| -------:
+Computer  | 1600  | 3
+Phone		  | 12    | 2
+Pipe      | 3     | 1
