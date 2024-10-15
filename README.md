@@ -53,5 +53,5 @@ $c = 1;
 Item      | Value | Quantity
 :---------|:-----:| -------:
 Computer  | 1600  | 3
-Phone		  | 12    | 2
+Phone     | 12    | 2
 Pipe      | 3     | 1
