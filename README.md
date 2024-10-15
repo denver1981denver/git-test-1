@@ -46,7 +46,7 @@ $c = 1;
 
 [Яндекс](https://dzen.ru/?yredirect=true)
 
-![Картинка](img/photo.jpg)
+![Картинка](img/photo.jpeg)
 
 [![Картинка](img/axe.jpg)](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BE%D1%80)
 
