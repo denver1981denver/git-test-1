@@ -27,6 +27,6 @@
 *******
 ------------
 
-Lorem ipsum dolor    sit amet consectetur adipisicing 
+Lorem ipsum dolor  sit amet consectetur   adipisicing  elit. 
 
-elit. 		Distinctio, tempora!
+Distinctio, tempora!
